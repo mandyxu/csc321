@@ -3,3 +3,5 @@ in Winter 2016 at the University of Toronto.
 
 The assignment descriptions can be found on the course website: 
 http://www.cs.toronto.edu/~guerzhoy/321/
+
+UofT students - Please use it at your own risk - Markus detects plagiarism!
